@@ -1,0 +1,31 @@
+{
+  "overview": "YatraSync is a smart travel assistance platform homepage that helps travelers explore Indian destinations with 9 integrated modules: destination discovery, itinerary planning, food discovery, transportation, weather, emergency services, local guides, healthcare, and language translation — all in a stunning 3D visual experience.",
+  "features": [
+    "3D hero section with animated travel elements and YatraSync branding",
+    "9 floating 3D feature cards with tilt/hover animations",
+    "Destination module showcasing cities like Delhi, Jaipur, Mumbai, Goa, Bengaluru",
+    "Itinerary planner with day-by-day travel schedule generator",
+    "Food discovery with local cuisine recommendations and filters",
+    "Routes & transportation guide for buses, metro, taxis, and rentals",
+    "Real-time weather information with forecasts",
+    "Emergency services quick access (Police 100, Ambulance 102, Fire 101)",
+    "Local guide/guardian connection service",
+    "Healthcare services: emergency, consultancy, diagnostics",
+    "Language translator: text, image (OCR), and audio modes",
+    "Fixed header with smooth-scroll navigation and mobile menu",
+    "Fully responsive travel-themed design with amber, ocean blue, and green palette"
+  ],
+  "category": "travel-lifestyle",
+  "tags": [
+    "travel",
+    "3d",
+    "homepage",
+    "india",
+    "smart-travel",
+    "yatrasync",
+    "itinerary",
+    "healthcare",
+    "translator"
+  ],
+  "last_updated": "2026-04-14T14:13:57.171Z"
+}
